@@ -28,7 +28,7 @@
 5. [订阅获取与导入步骤](#订阅获取与导入步骤)
 6. [流媒体与 AI 使用体验](#流媒体与-ai-使用体验)
 7. [常见问题 (FAQ)](#常见问题-faq)
-8. [官方注册入口](#官方注册入口)
+8. [官网注册入口](#官网注册入口)
 
 ---
 
@@ -87,10 +87,10 @@
 
 良心云支持全平台订阅，建议使用支持最新协议的客户端：
 
-- **Windows 端** - 推荐：**Clash Verge Rev**。
-- **Android 移动端** - 推荐：**Clash Meta**、**Nekobox**、**FlClash**。
-- **iOS 移动端** - 推荐：**Shadowrocket (小火箭)**、**Loon**、**Hiddify**、**Stash** 最新版。
-- **macOS 端** - 推荐：**Clash Verge**、**FlClash**、**Clash Party**、**Shadowrocket (M芯片)**。
+- **Windows 端** ：**Clash Verge Rev**。
+- **Android 移动端** ：**Clash Meta**、**Nekobox**、**FlClash**。
+- **iOS 移动端** ：**Shadowrocket (小火箭)**、**Loon**、**Hiddify**、**Stash** 最新版。
+- **macOS 端** ：**Clash Verge**、**FlClash**、**Clash Party**、**Shadowrocket (M芯片)**。
 
 ---
 
@@ -111,9 +111,9 @@
 - **流媒体平台**：完美支持 **Netflix (奈飞)**、**Disney+**、**TikTok (抖音国际版)**。
 - **AI 工具**：稳定支持 **ChatGPT** (含网页版与 App)、Claude、Google Gemini 等。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/liangxinyun/refs/heads/main/imgas/10001.png" alt="良心云的流媒体测试图" width="800">
+<img src="https://raw.githubusercontent.com/jichangbaike/liangxinyun/refs/heads/main/images/10001.png" alt="良心云的流媒体测试图" width="800">
 
-<img src="https://raw.githubusercontent.com/jichangbaike/liangxinyun/refs/heads/main/imgas/10002.png" alt="良心云的流媒体下载测试图" width="800">
+<img src="https://raw.githubusercontent.com/jichangbaike/liangxinyun/refs/heads/main/images/10002.jpg" alt="良心云的流媒体下载测试图" width="800">
 
 
 ---
@@ -128,7 +128,7 @@
 
 ---
 
-## 官网地址入口
+## 官网注册入口
 
 - 👉 **良心云官方入口**：  
   [**https://finalto.xyz/4FAbz8**](https://finalto.xyz/4FAbz8)
