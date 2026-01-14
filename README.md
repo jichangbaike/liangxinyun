@@ -13,7 +13,7 @@
 ## 良心云官网地址入口
 
 - 👉 **良心云官网注册入口**：  
-  [https://finalto.xyz/4FAbz8](https://finalto.xyz/4FAbz8)
+  [https://finalto.xyz/6FAbz8](https://finalto.xyz/6FAbz8)
 
 建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。
 
@@ -96,7 +96,7 @@
 
 ## 订阅获取与导入步骤
 
-1. **访问注册入口**：[点击进入良心云官网](https://finalto.xyz/4FAbz8)；
+1. **访问注册入口**：[点击进入良心云官网](https://finalto.xyz/6FAbz8)；
 2. **注册账户**：建议使用常用邮箱，方便接收维护通知；
 3. **选购套餐**：根据需求选择月付方案；
 4. **复制订阅**：在“用户中心”点击一键导入，或手动复制 **Clash 订阅链接**；
@@ -131,7 +131,7 @@
 ## 官网注册入口
 
 - 👉 **良心云官方入口**：  
-  [**https://finalto.xyz/4FAbz8**](https://finalto.xyz/4FAbz8)
+  [**https://finalto.xyz/6FAbz8**](https://finalto.xyz/6FAbz8)
 
 ---
 > **使用提示**：本仓库仅整理公开信息。跨境网络服务受多种因素影响，建议先通过月付套餐进行实测。
