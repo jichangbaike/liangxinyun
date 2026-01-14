@@ -111,6 +111,11 @@
 - **流媒体平台**：完美支持 **Netflix (奈飞)**、**Disney+**、**TikTok (抖音国际版)**。
 - **AI 工具**：稳定支持 **ChatGPT** (含网页版与 App)、Claude、Google Gemini 等。
 
+<img src="https://raw.githubusercontent.com/jichangbaike/liangxinyun/refs/heads/main/imgas/10001.png" alt="良心云的流媒体测试图" width="800">
+
+<img src="https://raw.githubusercontent.com/jichangbaike/liangxinyun/refs/heads/main/imgas/10002.png" alt="良心云的流媒体下载测试图" width="800">
+
+
 ---
 
 ## 常见问题 (FAQ)
